@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nagaraju</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **DevOps Engineer with a strong background in Configuration Management and support roles, skilled in tools like AWS, Docker, Kubernetes, Terraform, and Ansible. I focus on automating processes, improving system performance, and making networks scalable and secure in cloud environments.**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 My Tech Stack **DevOps, Docker, Kubernetes, Jenkins, AWS, Terraform, Scripting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
